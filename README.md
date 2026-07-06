@@ -7,7 +7,9 @@
 
 ##
 
-> 💻 TypeScript/Java/Kotlin developer • 🎮 [WindMC](https://windmc.su) owner • ☕ Making random stuff
+- 💻 TypeScript/Java/Kotlin developer
+- 🎮 [WindMC](https://windmc.su) owner
+- ☕ Making random stuff
 
 ##
  <h1>i use arch btw :3 </h1>
