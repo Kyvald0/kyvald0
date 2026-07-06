@@ -7,4 +7,4 @@
 
 ##
  <h1>i use arch btw :3 </h1>
-![image](./image.jpg)
+![image](https://raw.githubusercontent.com/Kyvald0/kyvald0/main/image.jpg)
