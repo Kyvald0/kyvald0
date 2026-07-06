@@ -12,6 +12,10 @@
 - ☕ Making random stuff
 
 ##
+
+<img src="https://raw.githubusercontent.com/Kyvald0/kyvald0/main/image2.jpg" alt="image2">
+
+##
  <h1>i use arch btw :3 </h1>
 <img src="https://raw.githubusercontent.com/Kyvald0/kyvald0/main/image.jpg" alt="image">
 
