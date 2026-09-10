@@ -8,7 +8,7 @@
 ##
 
 - 💻 TypeScript/Java/Kotlin developer
-- 🎮 [WindMC](https://windmc.su) owner
+- 🎮 [WindMC](https://windmc.pro) owner
 - ☕ Making random stuff
 
 ##
