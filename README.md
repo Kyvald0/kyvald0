@@ -1,22 +1,52 @@
-# Hey! 👋
-### I'm Kyvald0
+<h1 align="center">Hey! 👋 I'm Kyvald0</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=ae,js,ts,nodejs,kotlin,vue)](https://skillicons.dev)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7289DA&center=true&vCenter=true&width=440&lines=TypeScript+%2F+Java+%2F+Kotlin+dev;Owner+of+WindMC+%F0%9F%8E%AE;Making+random+stuff+%E2%98%95;I+use+Arch+btw+%3A3" alt="Typing SVG" />
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.windmc.su/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kyvalda4ka) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,js,ts,nodejs,kotlin,vue" />
+  </a>
+</p>
 
-##
+<p align="center">
+  <a href="https://discord.windmc.su/">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@kyvalda4ka">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" />
+  </a>
+</p>
 
-- 💻 TypeScript/Java/Kotlin developer
-- 🎮 [WindMC](https://windmc.pro) owner
+---
+
+### 🧑‍💻 About me
+
+- 💻 TypeScript / Java / Kotlin developer
+- 🎮 Owner of [WindMC](https://windmc.pro)
 - ☕ Making random stuff
+- 🐧 I use Arch btw :3
 
-##
+---
 
-<img src="https://raw.githubusercontent.com/Kyvald0/kyvald0/main/image2.jpg" alt="image2">
+### 📊 GitHub Stats
 
-##
- <h1>i use arch btw :3 </h1>
-<img src="https://raw.githubusercontent.com/Kyvald0/kyvald0/main/image.jpg" alt="image">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kyvald0&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyvald0&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-##
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kyvald0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kyvald0/kyvald0/main/image2.jpg" width="480" alt="image2">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kyvald0/kyvald0/main/image.jpg" width="480" alt="image">
+</p>
