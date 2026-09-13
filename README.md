@@ -56,3 +56,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kyvald0/kyvald0/main/image.jpg" width="480" alt="image">
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kyvald0&label=Profile%20Views&color=7289DA&style=flat" alt="Profile Views" />
+</p>
